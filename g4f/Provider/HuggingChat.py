@@ -92,7 +92,7 @@ class HuggingChat(AbstractProvider, ProviderModelMixin):
                 "is_retry": False,
                 "is_continue": False,
                 "web_search": False,
-                "tools": []
+                "tools": ["00000000000000000000000a"]
             }
 
             headers = {
